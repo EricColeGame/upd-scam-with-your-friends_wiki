@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Upd Scam With Your Friends Wiki",
+  shortName: "Upd Scam With Your Friends",
+  logoText: "U",
+  tagline: "Guides, Codes, Trading Strategies & Tips",
+  description: "Upd Scam With Your Friends Wiki with trading guides, codes, items, negotiation strategies, and updates for Roblox players.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://upd-scam-with-your-friends.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://upd-scam-with-your-friends.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/93539470484676/Scam-With-Your-Friends",
+  heroVideoId: "q80XOTb0SQM", // Scam With Your Friends multiplayer gameplay video
   social: {
     discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/watch?v=q80XOTb0SQM",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
