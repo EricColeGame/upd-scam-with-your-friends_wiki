@@ -1,0 +1,14 @@
+{
+  "name": "upd-scam-with-your-friends-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "upd-scam-with-your-friends.wiki",
+      "custom_domain": true
+    }
+  ]
+}
