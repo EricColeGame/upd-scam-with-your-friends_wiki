@@ -1,1 +1,342 @@
-{}
+{
+  "site": {
+    "name": "Upd Scam With Your Friends Wiki",
+    "shortName": "Upd Scam With Your Friends",
+    "tagline": "Guías, Códigos, Estrategias de Intercambio y Consejos",
+    "description": "Explora la Wiki de Upd Scam With Your Friends con códigos, guías para principiantes, información de objetos, consejos de intercambio y las últimas actualizaciones para mejorar tu experiencia multijugador.",
+    "legalNotice": "Wiki no oficial creada por fans. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "modes": "Modos",
+    "items": "Objetos",
+    "controls": "Controles",
+    "codes": "Códigos",
+    "tips": "Consejos"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Upd Scam With Your Friends - Códigos, Guías y Objetos",
+      "description": "Explora la Wiki de Upd Scam With Your Friends con códigos, guías para principiantes, catálogo de objetos, consejos de intercambio y actualizaciones."
+    },
+    "hero": {
+      "eyebrow": "Desafío de Engaño Multijugador Social",
+      "title": "Wiki de Upd Scam With Your Friends",
+      "description": "Un juego social multijugador centrado en el intercambio, el engaño y divertidas batallas de estafas donde los jugadores compiten mediante estrategia, negociación y decisiones ingeniosas.",
+      "stats": [
+        "Guías de Intercambio",
+        "Estrategias de Engaño",
+        "Catálogo de Objetos",
+        "Códigos Activos"
+      ],
+      "primaryCta": "Guía de Principiantes",
+      "secondaryCta": "Estrategias y Consejos",
+      "tertiaryCta": "Códigos Activos",
+      "videoLabel": "Tráiler Oficial"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Explorar Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Comienza Aquí",
+      "title": "Tu Viaje en Upd Scam With Your Friends",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía de Principiantes",
+          "description": "Domina el ciclo básico de contratos, ventanas de intercambio y estrategias esenciales de negociación para tu primera partida."
+        },
+        {
+          "number": "2",
+          "title": "Mecánicas de Intercambio",
+          "description": "Aprende a negociar ofertas de forma segura, verificar valores de objetos e identificar tácticas fraudulentas comunes."
+        },
+        {
+          "number": "3",
+          "title": "Guía de Modos de Juego",
+          "description": "Explora salas de emparejamiento público, servidores privados para amigos y formatos de fiesta personalizados para cada estilo de juego."
+        },
+        {
+          "number": "4",
+          "title": "Estrategias y Consejos Pro",
+          "description": "Tácticas avanzadas de defensa psicológica, reglas para evitar estafas y secretos de valoración para maximizar tus ganancias."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencias Actuales",
+      "quickLinks": [
+        "Guía de Principiantes",
+        "Códigos Activos",
+        "Mecánicas de Intercambio",
+        "Controles y Teclas"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía de Principiantes",
+          "description": "Todo lo que necesitas desde tu primer inicio de sesión hasta dominar las mecánicas de intercambio y engaño.",
+          "href": "/guide/upd-scam-with-your-friends-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos Activos",
+          "description": "Todos los códigos válidos con dinero y fichas gratis; canjéalos antes de que expiren.",
+          "href": "/codes/upd-scam-with-your-friends-codes"
+        },
+        {
+          "badge": "Objetos",
+          "title": "Economía de Objetos Raros",
+          "description": "Coleccionables, niveles de rareza, métricas de liquidez y estrategias de valoración.",
+          "href": "/items/upd-scam-with-your-friends-rare-items"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Sistemas de Intercambio y Engaño",
+          "description": "Cómo negociar tratos con seguridad y detectar trucos engañosos en el último segundo.",
+          "href": "/mechanics/upd-scam-with-your-friends-trade-system"
+        },
+        {
+          "badge": "Controles",
+          "title": "Teclas para PC y Mando",
+          "description": "Domina las teclas rápidas de soltar objetos, herramientas de inspección y pulsación para hablar.",
+          "href": "/controls/upd-scam-with-your-friends-controls"
+        },
+        {
+          "badge": "Multijugador",
+          "title": "Modos de Juego y Servidores",
+          "description": "Emparejamiento público, servidores privados con amigos y salas de fiesta personalizadas.",
+          "href": "/modes/upd-scam-with-your-friends-multiplayer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Upd Scam With Your Friends?",
+      "paragraphs": [
+        "Upd Scam With Your Friends es un juego multijugador social donde chocan la negociación, el engaño y el intercambio psicológico. Los jugadores entran en salas llenas de adrenalina para negociar intercambios de bienes, firmar contratos y ejecutar astutos trucos contra amigos y oponentes.",
+        "Ya sea que estés elaborando una estafa ingeniosa o protegiendo tu inventario con una verificación exhaustiva, cada ronda desafía tu capacidad de intuición, persuasión y pensamiento táctico. Es la experiencia definitiva de engaño social en Roblox para noches de fiesta y sesiones competitivas entre amigos."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "PC y Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Engaño Social"
+        },
+        {
+          "label": "Multijugador",
+          "value": "Cooperativo Online"
+        },
+        {
+          "label": "Bucle Principal",
+          "value": "Comercio y Farol"
+        },
+        {
+          "label": "Controles",
+          "value": "Teclado y Mando"
+        },
+        {
+          "label": "Actualizaciones",
+          "value": "Activas"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de Upd Scam With Your Friends",
+      "description": "Descubre guías completas de juego, códigos promocionales activos, estrategias de intercambio, configuraciones de controles y resúmenes de características de Upd Scam With Your Friends.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Fecha de Lanzamiento y Calendario de Upd Scam With Your Friends",
+          "description": "Cubre el calendario oficial de lanzamientos, información sobre acceso anticipado, compatibilidad de plataformas y actualizaciones de disponibilidad.",
+          "displayType": "card-list",
+          "highlights": [
+            "Acceso a Plataformas y Compatibilidad",
+            "Hitos de Acceso Anticipado",
+            "Cronograma de Actualizaciones Oficiales"
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para Principiantes de Upd Scam With Your Friends",
+          "description": "Manual inicial para nuevos jugadores que explica el ciclo básico de juego, negociación cooperativa, cuotas diarias y estrategias esenciales.",
+          "displayType": "step-by-step",
+          "highlights": [
+            "Fundamentos del Ciclo de Juego",
+            "Navegación de Ventanas de Intercambio",
+            "Verificación de Objetos Básicos"
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Jugabilidad y Mecánicas de Upd Scam With Your Friends",
+          "description": "Explicación detallada de las mecánicas centrales, dinámicas de contratos, eventos de intercambio y tácticas de engaño psicológico.",
+          "displayType": "card-list",
+          "highlights": [
+            "Sistemas de Contratos y Verificación",
+            "Mecánicas de Engaño Psicológico",
+            "Eventos y Modificadores de Ronda"
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Características y Objetos Raros de Upd Scam With Your Friends",
+          "description": "Vistazo a los coleccionables del juego, niveles de rareza, artículos cosméticos negociables y sistemas de personalización.",
+          "displayType": "card-list",
+          "highlights": [
+            "Niveles de Rareza de Objetos",
+            "Economía y Liquidez de Inventario",
+            "Personalización de Cosméticos"
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Requisitos del Sistema y Controles de Upd Scam With Your Friends",
+          "description": "Requisitos mínimos del sistema para PC, optimización de rendimiento y mapeo de controles tanto para teclado como para mando.",
+          "displayType": "table",
+          "highlights": [
+            "Optimización de FPS en PC",
+            "Mapeo de Teclas de Teclado y Ratón",
+            "Soporte de Mandos y Gamepads"
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de Pruebas de Juego de Upd Scam With Your Friends",
+          "description": "Pasos para unirse a pruebas comunitarias, canales de retroalimentación de desarrolladores y notas de versiones experimentales.",
+          "displayType": "step-by-step",
+          "highlights": [
+            "Elegibilidad para Pruebas Beta",
+            "Canales de Retroalimentación de la Comunidad",
+            "Notas de Compilaciones de Prueba"
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía Multijugador de Upd Scam With Your Friends",
+          "description": "Guía dedicada al juego cooperativo y competitivo con amigos, etiqueta en salas de chat y configuraciones de servidores privados.",
+          "displayType": "accordion",
+          "highlights": [
+            "Configuración de Servidores Privados",
+            "Estrategias de Engaño en Equipo",
+            "Reglas de Comunicación de Voz y Chat"
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones y Notas de Parche de Upd Scam With Your Friends",
+          "description": "Seguimiento de anuncios oficiales de parches, mejoras en la calidad de vida y balances en la economía de objetos.",
+          "displayType": "card-list",
+          "highlights": [
+            "Notas de Parche Recientes",
+            "Ajustes en la Economía de Intercambios",
+            "Hoja de Ruta de Próximas Funciones"
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a las dudas más comunes sobre Upd Scam With Your Friends.",
+      "items": [
+        {
+          "question": "¿Qué es Upd Scam With Your Friends?",
+          "answer": "Upd Scam With Your Friends es un juego de engaño social multijugador para fiestas donde los participantes negocian tratos, intercambian objetos y utilizan la persuasión o el engaño para superar a sus rivales."
+        },
+        {
+          "question": "¿Cómo evito que me estafen en Upd Scam With Your Friends?",
+          "answer": "Verifica siempre los objetos en la ventana de intercambio final antes de hacer clic en confirmar, observa los cambios de última hora y nunca aceptes un trato apresurado sin comprobar la rareza de los artículos."
+        },
+        {
+          "question": "¿Cómo canjeo códigos promocionales en Upd Scam With Your Friends?",
+          "answer": "Abre el juego, busca el botón de Códigos o Ajustes en la interfaz principal, escribe un código activo de nuestra lista verificada y confirma para reclamar recompensas gratuitas."
+        },
+        {
+          "question": "¿Puedo jugar a Upd Scam With Your Friends con amigos en servidores privados?",
+          "answer": "Sí, puedes crear o unirte a servidores privados para disfrutar de partidas personalizadas y negociaciones exclusivamente con tu grupo de amigos."
+        },
+        {
+          "question": "¿Cuáles son los controles predeterminados de Upd Scam With Your Friends en PC?",
+          "answer": "El movimiento estándar utiliza WASD, la barra espaciadora para saltar, la tecla E o el clic izquierdo para interactuar con ventanas de intercambio y el ratón para inspeccionar detalles de objetos."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Dominar Upd Scam With Your Friends?",
+      "description": "Desde negociaciones de intercambio hasta divertidas batallas de engaño, nuestra wiki comunitaria te ofrece guías gratuitas y actualizadas.",
+      "primary": "Leer la Guía de Principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Próximos Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Upd Scam With Your Friends",
+    "about": "La Wiki de Upd Scam With Your Friends es un centro independiente creado por fans que cubre estrategias de intercambio, objetos, códigos activos y consejos esenciales de juego para jugadores de Roblox.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de Upd Scam With Your Friends. No afiliado a Roblox ni a los creadores del juego.",
+    "description": "Juego social multijugador de Roblox centrado en el intercambio, el engaño y divertidas batallas de negociación.",
+    "playGame": "Jugar en Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Base de Datos de Objetos",
+    "beginnerGuide": "Guía para Principiantes",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio",
+    "mechanicsGuides": "Mecánicas",
+    "modesGuides": "Modos de Juego",
+    "itemsGuides": "Objetos"
+  },
+  "guide": {
+    "overviewTitle": "Guías y Tutoriales de Upd Scam With Your Friends",
+    "overviewDescription": "Manuales completos para novatos, tutoriales paso a paso y guías de sistemas de juego para Upd Scam With Your Friends."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas Principales de Upd Scam With Your Friends",
+    "overviewDescription": "Análisis detallado de mecánicas de intercambio, tácticas de engaño, trucos de verificación y reglas del juego."
+  },
+  "modes": {
+    "overviewTitle": "Modos de Juego de Upd Scam With Your Friends",
+    "overviewDescription": "Explora los diferentes formatos multijugador, opciones de salas y modos de juego en Upd Scam With Your Friends."
+  },
+  "items": {
+    "overviewTitle": "Objetos y Coleccionables de Upd Scam With Your Friends",
+    "overviewDescription": "Catálogo completo de objetos intercambiables, equipamiento, cosméticos y artículos valiosos en Upd Scam With Your Friends."
+  },
+  "controls": {
+    "overviewTitle": "Controles y Teclas de Upd Scam With Your Friends",
+    "overviewDescription": "Domina los atajos de teclado, controles de interfaz y combinaciones de teclas para Upd Scam With Your Friends."
+  },
+  "codes": {
+    "overviewTitle": "Códigos y Recompensas de Upd Scam With Your Friends",
+    "overviewDescription": "Últimos códigos promocionales activos, métodos de canje y recompensas gratuitas adicionales para Upd Scam With Your Friends."
+  },
+  "tips": {
+    "overviewTitle": "Consejos y Estrategias de Upd Scam With Your Friends",
+    "overviewDescription": "Consejos profesionales, estrategias de defensa, recomendaciones para evitar estafas y secretos de intercambio para Upd Scam With Your Friends."
+  }
+}

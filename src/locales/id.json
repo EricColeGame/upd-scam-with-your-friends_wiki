@@ -1,1 +1,330 @@
-{}
+{
+  "site": {
+    "name": "Upd Scam With Your Friends Wiki",
+    "shortName": "Scam With Your Friends",
+    "tagline": "Panduan Utama, Strategi & Basis Pengetahuan Komunitas",
+    "description": "Basis pengetahuan komunitas terlengkap untuk Upd Scam With Your Friends. Kuasai mekanisme perdagangan sosial, strategi penipuan, daftar item langka, dan kode aktif.",
+    "legalNotice": "Upd Scam With Your Friends Wiki adalah proyek basis pengetahuan mandiri yang dikelola penggemar dan tidak berafiliasi dengan Roblox Corporation atau pengembang game resmi."
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "modes": "Modes",
+    "items": "Items",
+    "controls": "Controls",
+    "codes": "Codes",
+    "tips": "Tips"
+  },
+  "home": {
+    "meta": {
+      "title": "Upd Scam With Your Friends Wiki - Panduan, Kode & Strategi",
+      "description": "Basis pengetahuan komunitas resmi untuk Upd Scam With Your Friends. Temukan mekanisme perdagangan sosial, strategi penipuan, daftar tier item, kontrol, dan kode hadiah terbaru."
+    },
+    "hero": {
+      "eyebrow": "Basis Data Komunitas Terverifikasi",
+      "title": "Kuasai Seni Perdagangan & Tipu Daya",
+      "description": "Jelajahi panduan mendalam tentang taktik negosiasi, taktik penipuan tingkat lanjut, katalog item, dan kontrol terlengkap untuk Upd Scam With Your Friends.",
+      "stats": [
+        {
+          "label": "Panduan Aktif",
+          "value": "20+"
+        },
+        {
+          "label": "Kategori Topik",
+          "value": "7"
+        },
+        {
+          "label": "Tingkat Akurasi",
+          "value": "100%"
+        },
+        {
+          "label": "Status Update",
+          "value": "Terkini"
+        }
+      ],
+      "primaryCta": "Mulai Panduan Pemula",
+      "secondaryCta": "Klaim Kode Hadiah",
+      "tertiaryCta": "Jelajahi Semua Modul",
+      "videoLabel": "Tonton Pratinjau Gameplay"
+    },
+    "updates": {
+      "title": "Pembaruan Wiki Terbaru",
+      "browse": "Jelajahi Catatan Rilis",
+      "viewAll": "Lihat Semua Artikel"
+    },
+    "start": {
+      "eyebrow": "Jalur Belajar Pemain",
+      "title": "Mulai Petualangan Anda",
+      "cards": [
+        {
+          "title": "Panduan Pemula",
+          "description": "Pahami alur dasar permainan, tata cara perdagangan aman, dan navigasi antarmuka untuk menghindari jebakan awal.",
+          "href": "/guide/beginner-safety-checklist",
+          "badge": "Langkah 1"
+        },
+        {
+          "title": "Mekanisme Inti",
+          "description": "Pelajari sistem kontrak, psikologi negosiasi, dan aturan transaksi untuk menguasai setiap lobi perdagangan.",
+          "href": "/mechanics/trading-system-breakdown",
+          "badge": "Langkah 2"
+        },
+        {
+          "title": "Mode Permainan",
+          "description": "Eksplorasi perbedaan antara lobi publik kompetitif dan server privat bertema santai bersama teman.",
+          "href": "/modes/public-lobby-dynamics",
+          "badge": "Langkah 3"
+        },
+        {
+          "title": "Item & Kode",
+          "description": "Temukan nilai kelangkaan barang, koleksi item terpopuler, dan klaim semua kode reward aktif saat ini.",
+          "href": "/codes/active-rewards-tracker",
+          "badge": "Langkah 4"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Paling Banyak Dicari",
+      "title": "Panduan & Artikel Populer",
+      "quickLinks": [
+        {
+          "title": "Checklist Keamanan",
+          "href": "/guide/beginner-safety-checklist"
+        },
+        {
+          "title": "Sistem Perdagangan",
+          "href": "/mechanics/trading-system-breakdown"
+        },
+        {
+          "title": "Pelacak Kode Aktif",
+          "href": "/codes/active-rewards-tracker"
+        },
+        {
+          "title": "Panduan Kontrol",
+          "href": "/controls/keyboard-gamepad-mapping"
+        }
+      ],
+      "cards": [
+        {
+          "title": "Checklist Keamanan Perdagangan Pemula",
+          "description": "Prosedur langkah demi langkah untuk memverifikasi item sebelum konfirmasi dan menghindari taktik tipu daya lawan.",
+          "href": "/guide/beginner-safety-checklist",
+          "tag": "Panduan"
+        },
+        {
+          "title": "Analisis Sistem Perdagangan & Trik Negosiasi",
+          "description": "Cara kerja jendela perdagangan, waktu tunggu konfirmasi, dan psikologi penawaran harga terbaik.",
+          "href": "/mechanics/trading-system-breakdown",
+          "tag": "Mekanisme"
+        },
+        {
+          "title": "Dinamika Lobi Publik vs Server Privat",
+          "description": "Strategi bertahan di lobi publik yang agresif dan cara mengatur server privat bersama teman.",
+          "href": "/modes/public-lobby-dynamics",
+          "tag": "Mode"
+        },
+        {
+          "title": "Daftar Tingkat Kelangkaan & Nilai Item",
+          "description": "Panduan tier list untuk semua barang koleksi, item langka, dan cara menentukan nilai tukar yang adil.",
+          "href": "/items/rarity-tier-overview",
+          "tag": "Item"
+        },
+        {
+          "title": "Pemetaan Kontrol Keyboard & Gamepad Lengkap",
+          "description": "Konfigurasi tombol optimal untuk input cepat saat bertransaksi dan navigasi cepat di arena.",
+          "href": "/controls/keyboard-gamepad-mapping",
+          "tag": "Kontrol"
+        },
+        {
+          "title": "Pelacak Kode Hadiah Aktif & Cara Penukaran",
+          "description": "Daftar kode aktif yang diverifikasi secara berkala beserta tutorial penukaran hadiah di dalam game.",
+          "href": "/codes/active-rewards-tracker",
+          "tag": "Kode"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa itu Upd Scam With Your Friends?",
+      "paragraphs": [
+        "Upd Scam With Your Friends adalah game pesta multipemain sosial yang memadukan negosiasi, strategi gertakan, dan dinamika perdagangan psikologis. Pemain memasuki lobi penuh energi untuk menegosiasikan pertukaran aset, menyusun kesepakatan cerdik, dan mengeksekusi strategi tipu daya bersama skuad mereka. Setiap transaksi menguji kemampuan Anda membaca niat lawan dan membangun aliansi yang menguntungkan.",
+        "Wiki kami menyajikan panduan komprehensif untuk setiap aspek gameplay, mulai dari checklist keamanan perdagangan pemula, konfigurasi input kontrol, pelacak kode hadiah aktif, tier list kelangkaan item, hingga panduan server privat. Kuasai meta permainan dan lindungi aset berharga Anda dari pengkhianatan tak terduga."
+      ],
+      "stats": [
+        {
+          "label": "Platform",
+          "value": "PC & Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Tipu Daya Sosial"
+        },
+        {
+          "label": "Multipemain",
+          "value": "Co-op Online"
+        },
+        {
+          "label": "Alur Inti",
+          "value": "Perdagangan & Gertakan"
+        },
+        {
+          "label": "Kontrol",
+          "value": "Keyboard & Gamepad"
+        },
+        {
+          "label": "Pembaruan",
+          "value": "Aktif"
+        }
+      ],
+      "cta": "Jelajahi Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi Basis Pengetahuan Kami",
+      "description": "Navigasikan topik utama kami untuk menemukan panduan mendalam, data teknis, dan tips praktis yang disusun rapi.",
+      "modules": [
+        {
+          "title": "Panduan & Tutorial",
+          "description": "Instruksi langkah demi langkah dari keselamatan pemula hingga taktik negosiasi tingkat lanjut.",
+          "href": "/guide",
+          "count": "Panduan Mendalam"
+        },
+        {
+          "title": "Mekanisme & Sistem",
+          "description": "Pelajari aturan teknis jendela transaksi, verifikasi kontrak, dan celah psikologis.",
+          "href": "/mechanics",
+          "count": "Rincian Teknis"
+        },
+        {
+          "title": "Mode Permainan",
+          "description": "Bandingkan strategi bertransaksi di lobi publik kompetitif dan server komunitas privat.",
+          "href": "/modes",
+          "count": "Panduan Mode"
+        },
+        {
+          "title": "Katalog Item & Nilai",
+          "description": "Daftar tier kelangkaan barang, tren pasar pertukaran, dan cara valuasi aset.",
+          "href": "/items",
+          "count": "Daftar Item"
+        },
+        {
+          "title": "Kontrol & Tata Letak",
+          "description": "Pemetaan tombol untuk keyboard, mouse, dan kontroler guna eksekusi cepat.",
+          "href": "/controls",
+          "count": "Skema Input"
+        },
+        {
+          "title": "Kode Hadiah Aktif",
+          "description": "Kumpulan kode promosi terbaru yang diverifikasi langsung beserta cara klaimnya.",
+          "href": "/codes",
+          "count": "Klaim Hadiah"
+        },
+        {
+          "title": "Tips & Trik Taktis",
+          "description": "Trik psikologis untuk membaca lawan, mendeteksi penipuan, dan mengamankan profit.",
+          "href": "/tips",
+          "count": "Strategi Ahli"
+        },
+        {
+          "title": "Pertanyaan Umum",
+          "description": "Jawaban atas pertanyaan paling sering diajukan mengenai game dan komunitas.",
+          "href": "#faq",
+          "count": "Solusi Instan"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Temukan jawaban cepat atas pertanyaan seputar perdagangan, keamanan akun, dan mekanisme Upd Scam With Your Friends.",
+      "items": [
+        {
+          "question": "Bagaimana cara melakukan perdagangan yang aman di Upd Scam With Your Friends?",
+          "answer": "Selalu periksa ulang setiap slot item di jendela konfirmasi transaksi sebelum menekan tombol terima, pastikan tidak ada item yang tiba-tiba ditukar pada detik terakhir, dan gunakan checklist keamanan pemula kami."
+        },
+        {
+          "question": "Di mana saya bisa menemukan kode hadiah terbaru?",
+          "answer": "Kunjungi halaman pelacak kode kami di wiki ini. Kami secara rutin memperbarui dan memverifikasi semua kode aktif langsung dari pengembang."
+        },
+        {
+          "question": "Apa perbedaan utama antara lobi publik dan server privat?",
+          "answer": "Lobi publik memiliki dinamika pasar bebas yang kompetitif dan penuh risiko gertakan cepat, sementara server privat cocok untuk berlatih atau berdagang santai bersama teman tepercaya."
+        },
+        {
+          "question": "Bagaimana cara menentukan nilai barang langka sebelum menukar?",
+          "answer": "Lihat panduan daftar tier item kami yang mengelompokkan item berdasarkan ketersediaan pasokan, utilitas visual, dan riwayat pertukaran pasar terkini."
+        },
+        {
+          "question": "Apakah permainan ini mendukung kontroler atau gamepad?",
+          "answer": "Ya, game ini mendukung kontrol keyboard/mouse dan controller. Anda dapat melihat tata letak tombol optimal di panduan kontrol kami."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Mendominasi Perdagangan?",
+      "description": "Bergabunglah dengan komunitas pemain, pelajari strategi penipuan tercerdas, dan lindungi inventaris Anda sekarang juga.",
+      "primary": "Baca Panduan Sekarang",
+      "secondary": "Buka Database Kode"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat Semua Kode",
+    "playOnRoblox": "Main di Roblox",
+    "inThisSection": "Di Bagian Ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Selanjutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca Selengkapnya",
+    "officialMedia": "Media Resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan tersedia di bagian ini."
+  },
+  "footer": {
+    "aboutTitle": "Tentang Wiki",
+    "about": "Tentang Wiki",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Kategori Panduan",
+    "legal": "Hukum & Privasi",
+    "copyright": "Semua hak cipta dan merek dagang dimiliki oleh pengembang game dan pemiliknya masing-masing.",
+    "description": "Pusat strategi independen dan basis data komunitas untuk Upd Scam With Your Friends.",
+    "playGame": "Mainkan di Roblox",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "YouTube Resmi",
+    "vvBuilder": "Perencana Strategi",
+    "beginnerGuide": "Panduan Pemula",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Syarat Ketentuan",
+    "mechanicsGuides": "Mekanisme Inti",
+    "modesGuides": "Mode Permainan",
+    "itemsGuides": "Katalog Item"
+  },
+  "guide": {
+    "overviewTitle": "Panduan & Tutorial Pemain",
+    "overviewDescription": "Kumpulan panduan komprehensif mulai dari checklist keamanan pemula hingga strategi negosiasi perdagangan tingkat lanjut."
+  },
+  "mechanics": {
+    "overviewTitle": "Mekanisme & Sistem Perdagangan",
+    "overviewDescription": "Pelajari cara kerja sistem perdagangan, tata cara verifikasi pertukaran, dan taktik psikologis permainan."
+  },
+  "modes": {
+    "overviewTitle": "Mode Permainan & Dinamika Lobi",
+    "overviewDescription": "Panduan lengkap mengenai strategi lobi publik, cara membuat server privat, dan manajemen permainan kelompok."
+  },
+  "items": {
+    "overviewTitle": "Katalog Item & Nilai Kelangkaan",
+    "overviewDescription": "Eksplorasi daftar tier kelangkaan barang, item paling diminati, dan panduan valuasi perdagangan yang adil."
+  },
+  "controls": {
+    "overviewTitle": "Tata Letak Kontrol & Panduan Tombol",
+    "overviewDescription": "Konfigurasi optimal untuk keyboard, mouse, dan gamepad untuk navigasi cepat dan pertukaran tanpa hambatan."
+  },
+  "codes": {
+    "overviewTitle": "Pelacak Kode Hadiah & Promo",
+    "overviewDescription": "Daftar kode aktif yang diverifikasi berkala untuk mengklaim berbagai hadiah eksklusif dan item gratis."
+  },
+  "tips": {
+    "overviewTitle": "Tips Taktis & Strategi Gertakan",
+    "overviewDescription": "Kumpulan saran ahli untuk mendeteksi trik penipuan, menguasai negosiasi, dan mengamankan keuntungan maksimal."
+  }
+}
