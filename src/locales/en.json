@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master the core contract loop, trade windows, and essential negotiation strategies for your first match."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Trade & Scam Mechanics",
+          "description": "Understand two-step verification, detect split-second item substitutions, and barter like a pro."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Controls & Keybinds",
+          "description": "Configure quick-drop keys, inspect tools, and push-to-talk voice settings for fast-paced table negotiations."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Upd Scam With Your Friends."
+          "title": "Active Codes & Perks",
+          "description": "Redeem developer promo codes for starting cash, trading tokens, and exclusive cosmetic titles."
         }
       ]
     },
@@ -62,237 +62,273 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Active Codes",
+        "Trade Mechanics",
+        "Controls & Keybinds"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first login to mastering trading and deception mechanics.",
+          "href": "/guide/upd-scam-with-your-friends-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working codes with free cash and tokens redeem before they expire.",
+          "href": "/codes/upd-scam-with-your-friends-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Items",
+          "title": "Rare Items Economy",
+          "description": "Collectibles, rarity tiers, liquidity metrics, and valuation strategies.",
+          "href": "/items/upd-scam-with-your-friends-rare-items"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Mechanics",
+          "title": "Trade & Scam Systems",
+          "description": "How to negotiate deals safely and spot sneaky bait-and-switch tactics.",
+          "href": "/mechanics/upd-scam-with-your-friends-trade-system"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Controls",
+          "title": "PC & Gamepad Keybinds",
+          "description": "Master quick-drop keys, inspect tools, and push-to-talk layouts.",
+          "href": "/controls/upd-scam-with-your-friends-controls"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Multiplayer",
+          "title": "Game Modes & Servers",
+          "description": "Public matchmaking, private friend servers, and custom party setups.",
+          "href": "/modes/upd-scam-with-your-friends-multiplayer"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Upd Scam With Your Friends?",
       "paragraphs": [
-        "Upd Scam With Your Friends is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Upd Scam With Your Friends is a social multiplayer party game where negotiation, deception, and psychological trading clash. Players enter high-energy lobbies to negotiate asset trades, sign contracts, and execute crafty swindles with their squad. Every transaction tests your ability to spot deceitful offers and build profitable alliances.",
+        "Our wiki delivers complete walkthroughs for every stage of gameplay, covering everything from beginner trade security checklists and input configurations to active reward codes, rare item tier rankings, and private server setups. Learn the meta strategies and protect your assets from unexpected betrayals."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC & Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Social Deception"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Multiplayer",
+          "value": "Online Co-op"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Core Loop",
+          "value": "Trading & Bluffing"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Controls",
+          "value": "Keyboard & Gamepad"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updates",
+          "value": "Active"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Upd Scam With Your Friends Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Discover comprehensive gameplay guides, active redeem codes, trade strategies, keybind layouts, and feature overviews for Upd Scam With Your Friends.",
       "modules": [
         {
           "order": 1,
-          "name": "Upd Scam With Your Friends Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/upd-scam-with-your-friends-codes",
-          "displayType": "code-box",
+          "name": "Upd Scam With Your Friends Release Date & Timeline",
+          "description": "This module covers the official release timeline, Early Access information, platforms, and availability updates for Upd Scam With Your Friends.",
+          "href": "/guide/upd-scam-with-your-friends-update",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Steam",
+              "detail": "PC Steam store release and community hub"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Roblox",
+              "detail": "Multiplayer live server sandbox experience"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Access",
+              "detail": "Early access playtest windows and community tests"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Upd Scam With Your Friends Beginner Guide",
+          "description": "A beginner guide section explaining the core gameplay loop, co-op systems, daily quota goals, AI conversations, and basic strategies for new players.",
           "href": "/guide/upd-scam-with-your-friends-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Join an active lobby and review public contract boards"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Open trade windows with players to barter starter assets"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Inspect contract fine print and counter fast-cancel swaps"
+            },
+            {
+              "label": "4",
+              "detail": "Bank trade profits before triggering final scheme rounds"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/upd-scam-with-your-friends-tier-list",
-          "displayType": "tier-grid",
+          "name": "Upd Scam With Your Friends Gameplay & Mechanics",
+          "description": "This module explains major gameplay mechanics including scam scenarios, workplace events, progression systems, and multiplayer cooperation.",
+          "href": "/mechanics/upd-scam-with-your-friends-scam-mechanics",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Trading",
+              "detail": "Direct barter channels and timed negotiation windows"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Trust",
+              "detail": "Dynamic reputation score reflecting trade reliability"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Stealing",
+              "detail": "Stealth mechanics and contraband snatching maneuvers"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/upd-scam-with-your-friends-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Upd Scam With Your Friends Features & Rare Items",
+          "description": "A feature showcase covering collectible rarity tiers, trading leverage, online co-op, and high-value asset progression.",
+          "href": "/items/upd-scam-with-your-friends-rare-items",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Ancestral One-offs & Mythic Relics with supreme leverage"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Elite Artifacts from high-tier survival and party milestones"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Uncommon Glows and mystery crate cosmetic rewards"
+            },
+            {
+              "label": "C",
+              "detail": "Common Utility assets and baseline completion items"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/upd-scam-with-your-friends-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Upd Scam With Your Friends System Requirements & Controls",
+          "description": "This module provides PC system specifications, default keyboard inputs, and gamepad layouts for precision table interactions.",
+          "href": "/controls/upd-scam-with-your-friends-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "E",
+              "detail": "Primary interact, sign deals, and confirm trades",
+              "badge": "Action"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Tab",
+              "detail": "Open personal asset pocket and scam inventory",
+              "badge": "Menu"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "G",
+              "detail": "Drop held items or discard suspicious contraband",
+              "badge": "Safety"
+            },
+            {
+              "label": "V",
+              "detail": "Push-to-talk voice chat for real-time table talk",
+              "badge": "Voice"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/upd-scam-with-your-friends-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Upd Scam With Your Friends Playtest Guide",
+          "description": "A guide explaining playtest availability, access updates, and official channels for players who want to try Upd Scam With Your Friends.",
+          "href": "/guide/upd-scam-with-your-friends-tutorial",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Join verified developer groups and official Steam playtests"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Complete the tutorial to learn trade confirmations and rules"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Configure custom voice keybinds and trading HUD indicators"
+            },
+            {
+              "label": "4",
+              "detail": "Host a private practice server with trusted squad members"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Upd Scam With Your Friends Multiplayer Guide",
+          "description": "This section focuses on co-op gameplay, playing with friends, online party features, and team syndicate strategies.",
+          "href": "/modes/upd-scam-with-your-friends-multiplayer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lobbies",
+              "detail": "Enter randomized public tables for social deduction tests"
+            },
+            {
+              "label": "Private",
+              "detail": "Host private server lobbies with customized party settings"
+            },
+            {
+              "label": "Syndicate",
+              "detail": "Form temporary trading alliances to pool contract rewards"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Upd Scam With Your Friends Updates & Patch Notes",
+          "description": "A news and update section collecting official announcements, development progress, patch changes, and community milestones.",
+          "href": "/guide/upd-scam-with-your-friends-new-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Economy",
+              "detail": "Rebalanced trade fees, contract values, and multiplier caps"
+            },
+            {
+              "label": "Security",
+              "detail": "Two-step trade lock prevention against split-second scams"
+            },
+            {
+              "label": "Events",
+              "detail": "Seasonal reward drops, limited titles, and community codes"
             }
           ]
         }
@@ -304,23 +340,23 @@
       "items": [
         {
           "question": "What is Upd Scam With Your Friends?",
-          "answer": "Upd Scam With Your Friends is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Upd Scam With Your Friends is a multiplayer party deception game where players trade assets, negotiate contracts, and attempt to outwit friends through psychological bluffs and cunning transactions."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I avoid getting scammed in Upd Scam With Your Friends?",
+          "answer": "Always inspect trade window offers thoroughly before confirming, watch out for last-second item substitutions, and avoid accepting unverified high-value deals with unknown players in Upd Scam With Your Friends."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I redeem promo codes in Upd Scam With Your Friends?",
+          "answer": "Open the in-game settings or codes kiosk in Upd Scam With Your Friends, enter an active promo code into the redemption text field, and confirm to claim free bonus cash, tokens, and cosmetic rewards."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can I play Upd Scam With Your Friends with friends in private servers?",
+          "answer": "Yes, Upd Scam With Your Friends supports both public matchmaking lobbies and private friend servers so you can practice trade strategies and host custom party rounds."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What are the default controls for Upd Scam With Your Friends on PC?",
+          "answer": "In Upd Scam With Your Friends, use W/A/S/D to move, E to interact or sign contracts, Tab to view your inventory stash, G to drop suspicious items, and V for push-to-talk voice negotiations."
         }
       ]
     },
