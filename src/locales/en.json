@@ -6,7 +6,15 @@
     "description": "Explore Upd Scam With Your Friends Wiki with codes, beginner guides, item information, trading tips, and the latest updates to improve your multiplayer experience.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "modes": "Modes",
+    "items": "Items",
+    "controls": "Controls",
+    "codes": "Codes",
+    "tips": "Tips"
+  },
   "home": {
     "meta": {
       "title": "Upd Scam With Your Friends Wiki - Codes, Guide & Items",
@@ -367,7 +375,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -398,10 +405,38 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Item Database",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "mechanicsGuides": "Mechanics",
+    "modesGuides": "Game Modes",
+    "itemsGuides": "Items"
+  },
+  "guide": {
+    "overviewTitle": "Upd Scam With Your Friends Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive starter manuals, walkthroughs, and gameplay systems guides for Upd Scam With Your Friends."
+  },
+  "mechanics": {
+    "overviewTitle": "Upd Scam With Your Friends Core Mechanics",
+    "overviewDescription": "Detailed analysis of trade mechanics, deceit tactics, verification tricks, and game rules."
+  },
+  "modes": {
+    "overviewTitle": "Upd Scam With Your Friends Game Modes",
+    "overviewDescription": "Explore different multiplayer formats, room options, and game modes in Upd Scam With Your Friends."
+  },
+  "items": {
+    "overviewTitle": "Upd Scam With Your Friends Items & Collectibles",
+    "overviewDescription": "Complete catalog of tradable items, equipment, cosmetics, and valuables in Upd Scam With Your Friends."
+  },
+  "controls": {
+    "overviewTitle": "Upd Scam With Your Friends Controls & Keybinds",
+    "overviewDescription": "Master keyboard shortcuts, interface controls, and hotkeys for Upd Scam With Your Friends."
+  },
+  "codes": {
+    "overviewTitle": "Upd Scam With Your Friends Codes & Rewards",
+    "overviewDescription": "Latest working promo codes, redemption methods, and bonus free rewards for Upd Scam With Your Friends."
+  },
+  "tips": {
+    "overviewTitle": "Upd Scam With Your Friends Tips & Strategies",
+    "overviewDescription": "Pro tips, defense strategies, scam avoidance advice, and trading secrets for Upd Scam With Your Friends."
   }
 }
