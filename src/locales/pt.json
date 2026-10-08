@@ -156,88 +156,188 @@
           "order": 1,
           "name": "Data de Lançamento e Cronograma de Upd Scam With Your Friends",
           "description": "Acompanhe o cronograma oficial de lançamentos, informações de Acesso Antecipado, plataformas compatíveis e atualizações de disponibilidade.",
+          "href": "/guide/upd-scam-with-your-friends-update",
           "displayType": "card-list",
           "highlights": [
-            "Acesso e Compatibilidade de Plataformas",
-            "Marcos do Acesso Antecipado",
-            "Cronograma Oficial de Atualizações"
+            {
+              "label": "Steam",
+              "detail": "Lançamento na loja Steam para PC e central comunitária"
+            },
+            {
+              "label": "Roblox",
+              "detail": "Experiência multijogador em servidores ativos de sandbox"
+            },
+            {
+              "label": "Acesso",
+              "detail": "Janelas de testes de jogo em acesso antecipado e testes comunitários"
+            }
           ]
         },
         {
           "order": 2,
           "name": "Guia para Iniciantes de Upd Scam With Your Friends",
-          "description": "Manual completo para novos jogadores explicando o ciclo central de jogo, cooperação, metas diárias e estratégias básicas.",
+          "description": "Seção introdutória que explica o ciclo básico de contratos, janelas de negociação, metas de cotas diárias e estratégias essenciais.",
+          "href": "/guide/upd-scam-with-your-friends-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
-            "Fundamentos do Ciclo de Jogo",
-            "Navegação nas Telas de Negociação",
-            "Verificação Básica de Itens"
+            {
+              "label": "1",
+              "detail": "Entre em uma sala ativa e consulte os murais de contratos públicos"
+            },
+            {
+              "label": "2",
+              "detail": "Abra janelas de troca com jogadores para negociar seus primeiros ativos"
+            },
+            {
+              "label": "3",
+              "detail": "Inspecione os detalhes dos contratos e evite trocas fraudulentas de último segundo"
+            },
+            {
+              "label": "4",
+              "detail": "Garanta seus lucros de troca antes de iniciar as rodadas finais de golpe"
+            }
           ]
         },
         {
           "order": 3,
           "name": "Jogabilidade e Mecânicas de Upd Scam With Your Friends",
-          "description": "Visão detalhada das mecânicas principais, sistemas de contratos, eventos de troca e táticas de blefe psicológico.",
+          "description": "Módulo detalhando as principais mecânicas, incluindo cenários de blefe, eventos corporativos, progressão e cooperação em grupo.",
+          "href": "/mechanics/upd-scam-with-your-friends-scam-mechanics",
           "displayType": "card-list",
           "highlights": [
-            "Sistemas de Contratos e Verificação",
-            "Mecânicas de Blefe Psicológico",
-            "Eventos e Modificadores de Rodada"
+            {
+              "label": "Trocas",
+              "detail": "Canais de permuta direta e janelas cronometradas de negociação"
+            },
+            {
+              "label": "Confiança",
+              "detail": "Pontuação dinâmica de reputação que reflete a confiabilidade dos seus acordos"
+            },
+            {
+              "label": "Roubo",
+              "detail": "Mecânicas furtivas e manobras para subtrair itens de contrabando"
+            }
           ]
         },
         {
           "order": 4,
           "name": "Recursos e Itens Raros de Upd Scam With Your Friends",
-          "description": "Vitrine de itens colecionáveis, graus de raridade, cosméticos negociáveis e sistemas de customização de personagens.",
-          "displayType": "card-list",
+          "description": "Destaque de colecionáveis por níveis de raridade, poder de barganha em trocas, cooperativo online e progressão de itens valiosos.",
+          "href": "/items/upd-scam-with-your-friends-rare-items",
+          "displayType": "tier-grid",
           "highlights": [
-            "Níveis de Raridade de Itens",
-            "Economia e Liquidez de Inventário",
-            "Customização de Cosméticos"
+            {
+              "label": "S",
+              "detail": "Itens Únicos Ancestrais e Relíquias Míticas com altíssimo valor de troca"
+            },
+            {
+              "label": "A",
+              "detail": "Artefatos de Elite obtidos em marcos de sobrevivência e partidas avançadas"
+            },
+            {
+              "label": "B",
+              "detail": "Brilhos Incomuns e recompensas cosméticas de caixas misteriosas"
+            },
+            {
+              "label": "C",
+              "detail": "Itens Utilitários Comuns e recursos básicos de finalização"
+            }
           ]
         },
         {
           "order": 5,
           "name": "Requisitos de Sistema e Controles de Upd Scam With Your Friends",
-          "description": "Requisitos mínimos para PC, otimizações de desempenho e mapeamento completo de botões para teclado, mouse e controle.",
-          "displayType": "table",
+          "description": "Especificações para PC, comandos padrão de teclado e mapeamento para controles para interações precisas na mesa.",
+          "href": "/controls/upd-scam-with-your-friends-controls",
+          "displayType": "code-cards",
           "highlights": [
-            "Otimização de FPS no PC",
-            "Mapeamento de Teclado e Mouse",
-            "Suporte Completo a Controles"
+            {
+              "label": "E",
+              "detail": "Interagir, assinar contratos e confirmar trocas",
+              "badge": "Ação"
+            },
+            {
+              "label": "Tab",
+              "detail": "Abrir o bolso de ativos pessoais e inventário de golpes",
+              "badge": "Menu"
+            },
+            {
+              "label": "G",
+              "detail": "Largar itens empunhados ou descartar contrabando suspeito",
+              "badge": "Segurança"
+            },
+            {
+              "label": "V",
+              "detail": "Pressione para falar no chat de voz durante negociações ao vivo",
+              "badge": "Voz"
+            }
           ]
         },
         {
           "order": 6,
-          "name": "Guia de Playtest de Upd Scam With Your Friends",
-          "description": "Instruções para ingressar em testes comunitários, canais de feedback com desenvolvedores e notas de versões experimentais.",
+          "name": "Guia de Testes de Jogo de Upd Scam With Your Friends",
+          "description": "Instruções sobre disponibilidade de playtests, atualizações de acesso e canais oficiais para testar Upd Scam With Your Friends.",
+          "href": "/guide/upd-scam-with-your-friends-tutorial",
           "displayType": "step-by-step",
           "highlights": [
-            "Como Participar dos Testes Beta",
-            "Canais de Feedback da Comunidade",
-            "Notas das Versões Experimentais"
+            {
+              "label": "1",
+              "detail": "Participe dos grupos verificados de desenvolvedores e playtests oficiais da Steam"
+            },
+            {
+              "label": "2",
+              "detail": "Complete o tutorial para dominar as regras e confirmações de troca"
+            },
+            {
+              "label": "3",
+              "detail": "Configure atalhos personalizados de voz e avisos visuais do HUD"
+            },
+            {
+              "label": "4",
+              "detail": "Crie um servidor privado de treino com seus companheiros de equipe"
+            }
           ]
         },
         {
           "order": 7,
-          "name": "Guia Multijugador de Upd Scam With Your Friends",
-          "description": "Estratégias cooperativas e competitivas para jogar com amigos, boas práticas de chat e configuração de servidores privados.",
-          "displayType": "accordion",
+          "name": "Guia Multijogador de Upd Scam With Your Friends",
+          "description": "Seção voltada para a jogabilidade cooperativa, jogar com amigos, recursos de grupos online e táticas de sindicatos.",
+          "href": "/modes/upd-scam-with-your-friends-multiplayer",
+          "displayType": "card-list",
           "highlights": [
-            "Configuração de Servidores Privados",
-            "Estratégias de Trapaça em Equipe",
-            "Regras de Comunicação por Voz e Chat"
+            {
+              "label": "Salas",
+              "detail": "Participe de mesas públicas aleatórias para testes de dedução social"
+            },
+            {
+              "label": "Privado",
+              "detail": "Crie servidores privados com regras e configurações de sala personalizadas"
+            },
+            {
+              "label": "Sindicato",
+              "detail": "Forme alianças temporárias de troca para acumular recompensas de contratos"
+            }
           ]
         },
         {
           "order": 8,
           "name": "Atualizações e Notas de Atualização de Upd Scam With Your Friends",
-          "description": "Resumo de comunicados oficiais, correções de balanceamento, melhorias na qualidade de vida e ajustes na economia.",
+          "description": "Central de novidades reunindo comunicados oficiais, evolução do desenvolvimento, correções e marcos da comunidade.",
+          "href": "/guide/upd-scam-with-your-friends-new-update",
           "displayType": "card-list",
           "highlights": [
-            "Notas Recentes de Atualização",
-            "Ajustes na Economia de Trocas",
-            "Roteiro de Próximas Funcionalidades"
+            {
+              "label": "Economia",
+              "detail": "Rebalanceamento de taxas de troca, valores de contratos e tetos de bônus"
+            },
+            {
+              "label": "Segurança",
+              "detail": "Bloqueio de troca em duas etapas contra golpes de última fração de segundo"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Recompensas sazonais, títulos por tempo limitado e códigos da comunidade"
+            }
           ]
         }
       ]

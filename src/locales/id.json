@@ -25,22 +25,10 @@
       "title": "Kuasai Seni Perdagangan & Tipu Daya",
       "description": "Jelajahi panduan mendalam tentang taktik negosiasi, taktik penipuan tingkat lanjut, katalog item, dan kontrol terlengkap untuk Upd Scam With Your Friends.",
       "stats": [
-        {
-          "label": "Panduan Aktif",
-          "value": "20+"
-        },
-        {
-          "label": "Kategori Topik",
-          "value": "7"
-        },
-        {
-          "label": "Tingkat Akurasi",
-          "value": "100%"
-        },
-        {
-          "label": "Status Update",
-          "value": "Terkini"
-        }
+        "Pertempuran Perdagangan",
+        "Kode Aktif",
+        "Katalog Item",
+        "Panduan Strategi"
       ],
       "primaryCta": "Mulai Panduan Pemula",
       "secondaryCta": "Klaim Kode Hadiah",
@@ -57,28 +45,24 @@
       "title": "Mulai Petualangan Anda",
       "cards": [
         {
+          "number": "1",
           "title": "Panduan Pemula",
-          "description": "Pahami alur dasar permainan, tata cara perdagangan aman, dan navigasi antarmuka untuk menghindari jebakan awal.",
-          "href": "/guide/beginner-safety-checklist",
-          "badge": "Langkah 1"
+          "description": "Kuasai siklus kontrak inti, jendela perdagangan, dan strategi negosiasi dasar untuk pertandingan pertama Anda."
         },
         {
-          "title": "Mekanisme Inti",
-          "description": "Pelajari sistem kontrak, psikologi negosiasi, dan aturan transaksi untuk menguasai setiap lobi perdagangan.",
-          "href": "/mechanics/trading-system-breakdown",
-          "badge": "Langkah 2"
+          "number": "2",
+          "title": "Mekanisme Perdagangan",
+          "description": "Pelajari cara bernegosiasi secara aman, memverifikasi nilai item, dan mengenali taktik penipuan lawan."
         },
         {
-          "title": "Mode Permainan",
-          "description": "Eksplorasi perbedaan antara lobi publik kompetitif dan server privat bertema santai bersama teman.",
-          "href": "/modes/public-lobby-dynamics",
-          "badge": "Langkah 3"
+          "number": "3",
+          "title": "Panduan Mode Game",
+          "description": "Eksplorasi lobi publik, server privat santai bersama teman, dan aturan permainan khusus."
         },
         {
-          "title": "Item & Kode",
-          "description": "Temukan nilai kelangkaan barang, koleksi item terpopuler, dan klaim semua kode reward aktif saat ini.",
-          "href": "/codes/active-rewards-tracker",
-          "badge": "Langkah 4"
+          "number": "4",
+          "title": "Strategi & Tips Pro",
+          "description": "Taktik psikologis tingkat lanjut, aturan pertahanan anti-tipu daya, dan rahasia penilaian valuasi item."
         }
       ]
     },
@@ -86,59 +70,47 @@
       "eyebrow": "Paling Banyak Dicari",
       "title": "Panduan & Artikel Populer",
       "quickLinks": [
-        {
-          "title": "Checklist Keamanan",
-          "href": "/guide/beginner-safety-checklist"
-        },
-        {
-          "title": "Sistem Perdagangan",
-          "href": "/mechanics/trading-system-breakdown"
-        },
-        {
-          "title": "Pelacak Kode Aktif",
-          "href": "/codes/active-rewards-tracker"
-        },
-        {
-          "title": "Panduan Kontrol",
-          "href": "/controls/keyboard-gamepad-mapping"
-        }
+        "Panduan Pemula",
+        "Kode Aktif",
+        "Mekanisme Perdagangan",
+        "Kontrol & Tombol"
       ],
       "cards": [
         {
-          "title": "Checklist Keamanan Perdagangan Pemula",
-          "description": "Prosedur langkah demi langkah untuk memverifikasi item sebelum konfirmasi dan menghindari taktik tipu daya lawan.",
-          "href": "/guide/beginner-safety-checklist",
-          "tag": "Panduan"
+          "badge": "Pemula",
+          "title": "Panduan Pemula",
+          "description": "Semua yang Anda butuhkan dari login pertama hingga menguasai mekanisme perdagangan dan tipu daya.",
+          "href": "/guide/upd-scam-with-your-friends-beginner-guide"
         },
         {
-          "title": "Analisis Sistem Perdagangan & Trik Negosiasi",
-          "description": "Cara kerja jendela perdagangan, waktu tunggu konfirmasi, dan psikologi penawaran harga terbaik.",
-          "href": "/mechanics/trading-system-breakdown",
-          "tag": "Mekanisme"
+          "badge": "Terbaru",
+          "title": "Kode Aktif",
+          "description": "Semua kode hadiah aktif yang memberikan uang dan token gratis sebelum kedaluwarsa.",
+          "href": "/codes/upd-scam-with-your-friends-codes"
         },
         {
-          "title": "Dinamika Lobi Publik vs Server Privat",
-          "description": "Strategi bertahan di lobi publik yang agresif dan cara mengatur server privat bersama teman.",
-          "href": "/modes/public-lobby-dynamics",
-          "tag": "Mode"
+          "badge": "Item",
+          "title": "Ekonomi Item Langka",
+          "description": "Koleksi item, tingkat kelangkaan, metrik likuiditas pasar, dan strategi penilaian barang.",
+          "href": "/items/upd-scam-with-your-friends-rare-items"
         },
         {
-          "title": "Daftar Tingkat Kelangkaan & Nilai Item",
-          "description": "Panduan tier list untuk semua barang koleksi, item langka, dan cara menentukan nilai tukar yang adil.",
-          "href": "/items/rarity-tier-overview",
-          "tag": "Item"
+          "badge": "Mekanisme",
+          "title": "Sistem Perdagangan & Trik",
+          "description": "Cara bernegosiasi aman dan mendeteksi trik penipuan pada detik-detik terakhir konfirmasi.",
+          "href": "/mechanics/upd-scam-with-your-friends-trade-system"
         },
         {
-          "title": "Pemetaan Kontrol Keyboard & Gamepad Lengkap",
-          "description": "Konfigurasi tombol optimal untuk input cepat saat bertransaksi dan navigasi cepat di arena.",
-          "href": "/controls/keyboard-gamepad-mapping",
-          "tag": "Kontrol"
+          "badge": "Kontrol",
+          "title": "Tombol PC & Gamepad",
+          "description": "Kuasai tombol pintas menjatuhkan barang, alat inspeksi cepat, dan voice chat.",
+          "href": "/controls/upd-scam-with-your-friends-controls"
         },
         {
-          "title": "Pelacak Kode Hadiah Aktif & Cara Penukaran",
-          "description": "Daftar kode aktif yang diverifikasi secara berkala beserta tutorial penukaran hadiah di dalam game.",
-          "href": "/codes/active-rewards-tracker",
-          "tag": "Kode"
+          "badge": "Multiplayer",
+          "title": "Mode Multiplayer & Sindicat",
+          "description": "Panduan bermain bersama teman, mendirikan server privat, dan kerja sama tim.",
+          "href": "/modes/upd-scam-with-your-friends-multiplayer"
         }
       ]
     },
@@ -181,52 +153,192 @@
       "description": "Navigasikan topik utama kami untuk menemukan panduan mendalam, data teknis, dan tips praktis yang disusun rapi.",
       "modules": [
         {
-          "title": "Panduan & Tutorial",
-          "description": "Instruksi langkah demi langkah dari keselamatan pemula hingga taktik negosiasi tingkat lanjut.",
-          "href": "/guide",
-          "count": "Panduan Mendalam"
+          "order": 1,
+          "name": "Tanggal Rilis & Jadwal Upd Scam With Your Friends",
+          "description": "Modul ini mencakup lini masa rilis resmi, informasi Akses Awal, platform yang didukung, dan pembaruan ketersediaan game.",
+          "href": "/guide/upd-scam-with-your-friends-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "Rilis toko Steam PC dan hub komunitas pemain"
+            },
+            {
+              "label": "Roblox",
+              "detail": "Pengalaman multipemain sandbox di server langsung"
+            },
+            {
+              "label": "Akses",
+              "detail": "Jadwal uji coba akses awal dan playtest komunitas"
+            }
+          ]
         },
         {
-          "title": "Mekanisme & Sistem",
-          "description": "Pelajari aturan teknis jendela transaksi, verifikasi kontrak, dan celah psikologis.",
-          "href": "/mechanics",
-          "count": "Rincian Teknis"
+          "order": 2,
+          "name": "Panduan Pemula Upd Scam With Your Friends",
+          "description": "Panduan langkah awal yang menjelaskan alur permainan inti, sistem kooperatif, target kuota harian, dan strategi dasar.",
+          "href": "/guide/upd-scam-with-your-friends-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Bergabung ke lobi aktif dan periksa papan kontrak publik"
+            },
+            {
+              "label": "2",
+              "detail": "Buka jendela perdagangan dengan pemain lain untuk menukar aset awal"
+            },
+            {
+              "label": "3",
+              "detail": "Periksa rincian kontrak dan waspadai pergantian item kilat di detik akhir"
+            },
+            {
+              "label": "4",
+              "detail": "Amankan keuntungan transaksi sebelum memulai ronde skema final"
+            }
+          ]
         },
         {
-          "title": "Mode Permainan",
-          "description": "Bandingkan strategi bertransaksi di lobi publik kompetitif dan server komunitas privat.",
-          "href": "/modes",
-          "count": "Panduan Mode"
+          "order": 3,
+          "name": "Gameplay & Mekanisme Upd Scam With Your Friends",
+          "description": "Modul ini menjelaskan mekanisme utama gameplay termasuk skenario penipuan, event tempat kerja, progresi, dan kerja sama.",
+          "href": "/mechanics/upd-scam-with-your-friends-scam-mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Perdagangan",
+              "detail": "Saluran barter langsung dan jendela negosiasi berbatas waktu"
+            },
+            {
+              "label": "Kepercayaan",
+              "detail": "Skor reputasi dinamis yang mencerminkan keandalan transaksi Anda"
+            },
+            {
+              "label": "Pencurian",
+              "detail": "Mekanisme mengendap-endap dan manuver merebut barang selundupan"
+            }
+          ]
         },
         {
-          "title": "Katalog Item & Nilai",
-          "description": "Daftar tier kelangkaan barang, tren pasar pertukaran, dan cara valuasi aset.",
-          "href": "/items",
-          "count": "Daftar Item"
+          "order": 4,
+          "name": "Fitur & Item Langka Upd Scam With Your Friends",
+          "description": "Etalase fitur yang menampilkan tingkatan kelangkaan item koleksi, nilai tawar perdagangan, dan progresi aset berharga.",
+          "href": "/items/upd-scam-with-your-friends-rare-items",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Barang Unik Leluhur & Relik Mitos dengan nilai tawar tertinggi"
+            },
+            {
+              "label": "A",
+              "detail": "Artefak Elit dari pencapaian bertahan hidup dan tonggak pesta"
+            },
+            {
+              "label": "B",
+              "detail": "Item Berpendar Langka dan hadiah kosmetik kotak misteri"
+            },
+            {
+              "label": "C",
+              "detail": "Aset Utilitas Umum dan barang penyelesaian dasar"
+            }
+          ]
         },
         {
-          "title": "Kontrol & Tata Letak",
-          "description": "Pemetaan tombol untuk keyboard, mouse, dan kontroler guna eksekusi cepat.",
-          "href": "/controls",
-          "count": "Skema Input"
+          "order": 5,
+          "name": "Spesifikasi Sistem & Kontrol Upd Scam With Your Friends",
+          "description": "Spesifikasi PC, input keyboard bawaan, dan tata letak gamepad untuk interaksi meja perdagangan yang presisi.",
+          "href": "/controls/upd-scam-with-your-friends-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "E",
+              "detail": "Interaksi utama, menandatangani kesepakatan, dan konfirmasi barter",
+              "badge": "Aksi"
+            },
+            {
+              "label": "Tab",
+              "detail": "Membuka kantong aset pribadi dan inventaris tipu daya",
+              "badge": "Menu"
+            },
+            {
+              "label": "G",
+              "detail": "Menjatuhkan item yang dipegang atau membuang barang mencurigakan",
+              "badge": "Keamanan"
+            },
+            {
+              "label": "V",
+              "detail": "Tekan untuk bicara di voice chat saat bernegosiasi langsung",
+              "badge": "Suara"
+            }
+          ]
         },
         {
-          "title": "Kode Hadiah Aktif",
-          "description": "Kumpulan kode promosi terbaru yang diverifikasi langsung beserta cara klaimnya.",
-          "href": "/codes",
-          "count": "Klaim Hadiah"
+          "order": 6,
+          "name": "Panduan Playtest Upd Scam With Your Friends",
+          "description": "Panduan ketersediaan playtest, info pembaruan akses, dan saluran resmi bagi pemain yang ingin mencoba game ini.",
+          "href": "/guide/upd-scam-with-your-friends-tutorial",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Bergabung ke grup pengembang terverifikasi dan playtest resmi Steam"
+            },
+            {
+              "label": "2",
+              "detail": "Selesaikan tutorial untuk mempelajari aturan dan konfirmasi perdagangan"
+            },
+            {
+              "label": "3",
+              "detail": "Atur tombol suara kustom dan indikator HUD perdagangan"
+            },
+            {
+              "label": "4",
+              "detail": "Buka server latihan privat bersama rekan tim tepercaya"
+            }
+          ]
         },
         {
-          "title": "Tips & Trik Taktis",
-          "description": "Trik psikologis untuk membaca lawan, mendeteksi penipuan, dan mengamankan profit.",
-          "href": "/tips",
-          "count": "Strategi Ahli"
+          "order": 7,
+          "name": "Panduan Multipemain Upd Scam With Your Friends",
+          "description": "Bagian yang berfokus pada gameplay kooperatif, bermain bersama teman, fitur party online, dan strategi aliansi.",
+          "href": "/modes/upd-scam-with-your-friends-multiplayer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lobi",
+              "detail": "Masuk ke meja publik acak untuk uji deduksi sosial"
+            },
+            {
+              "label": "Privat",
+              "detail": "Buat lobi server privat dengan aturan pesta yang disesuaikan"
+            },
+            {
+              "label": "Sindikat",
+              "detail": "Bentuk aliansi perdagangan sementara untuk mengumpulkan hadiah kontrak"
+            }
+          ]
         },
         {
-          "title": "Pertanyaan Umum",
-          "description": "Jawaban atas pertanyaan paling sering diajukan mengenai game dan komunitas.",
-          "href": "#faq",
-          "count": "Solusi Instan"
+          "order": 8,
+          "name": "Pembaruan & Catatan Patch Upd Scam With Your Friends",
+          "description": "Bagian berita yang mengumpulkan pengumuman resmi, kemajuan pengembangan, perubahan patch, dan tonggak komunitas.",
+          "href": "/guide/upd-scam-with-your-friends-new-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ekonomi",
+              "detail": "Penyesuaian biaya transaksi, nilai kontrak, dan batas pengganda"
+            },
+            {
+              "label": "Keamanan",
+              "detail": "Kunci perdagangan dua langkah untuk mencegah penipuan kilat"
+            },
+            {
+              "label": "Acara",
+              "detail": "Hadiah musiman, gelar terbatas, dan kode komunitas"
+            }
+          ]
         }
       ]
     },
